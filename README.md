@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitendra Mali</h1>
 <h3 align="center">Web-developer specializing in MERN Technologies</h3>
+<img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=1000 />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat" alt="h1t3ndr4" /> </p>
 
