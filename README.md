@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat" alt="h1t3ndr4" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1t3ndr4&theme=onedark" alt="h1t3ndr4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1t3ndr4&theme=onedark&row=2&column=3" alt="h1t3ndr4" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/h1t3ndr4" target="blank"><img src="https://img.shields.io/twitter/follow/h1t3ndr4?logo=twitter&style=for-the-badge" alt="h1t3ndr4" /></a> </p>
 
