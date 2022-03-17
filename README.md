@@ -38,8 +38,8 @@ interpersonal skills</p>
   </p>
 
 <h2 align="center"> 📄 Know about my experiences</h2>
-<p align="center">https://drive.google.com/file/d/1fWhkwt-fzOzTpmUwjdcLkxCiHCRv4dHT/view?usp=sharing</p>
 
+Click here for my [Resume](https://drive.google.com/file/d/1fWhkwt-fzOzTpmUwjdcLkxCiHCRv4dHT/view?usp=sharing/ "Title")
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
