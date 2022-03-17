@@ -4,16 +4,28 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat" alt="h1t3ndr4" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1t3ndr4&row=2&column=3margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=monokai" alt="h1t3ndr4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1t3ndr4&row=2&column=3&margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=monokai" alt="h1t3ndr4" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/h1t3ndr4" target="blank"><img src="https://img.shields.io/twitter/follow/h1t3ndr4?logo=twitter&style=for-the-badge" alt="h1t3ndr4" /></a> </p>
 
 <p align="center"> 
 <h2 align="center"> 💬 Ask me about</h2>
-  <p align="center"><strong>JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB</strong></p>
+   <div align="center">
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+
+
+
+ </div>
 
 <h2 align="center"> 📫 How to reach me </h2>
-<p align="center"><strong>hitumali10@gmail.com</strong></p>
+ <p align="center">
+    <a target="_blank" href="mailto:hitumali10@gmail.com"><img src="https://img.shields.io/badge/hitumali10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
 
 <h2 align="center"> 📄 Know about my experiences</h2>
 <p align="center">https://drive.google.com/file/d/1fWhkwt-fzOzTpmUwjdcLkxCiHCRv4dHT/view?usp=sharing</p>
