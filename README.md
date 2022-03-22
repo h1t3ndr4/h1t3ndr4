@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitendra Mali</h1>
 <p align="center">Full Stack Developer with a specialization in MERN
 Stack. Hands-on experience in application development. Skilled
-in building web applications using HTML, CSS JavaScript.
+in building web applications using HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB.
 Experience in ECMAScript 6. Able to quickly learn and master
 new technologies. High-energy, confident professional with
 passion for technology. Flexible and capable of balancing
