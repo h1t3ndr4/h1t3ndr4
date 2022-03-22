@@ -37,9 +37,11 @@ interpersonal skills</p>
     <a target="_blank" href="mailto:hitumali10@gmail.com"><img src="https://img.shields.io/badge/hitumali10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
-<h2 align="center"> 📄 Know about my experiences</h2>
+<h2 align="center"> 📄 Know about me</h2>
 
 Click here for my [Resume](https://drive.google.com/file/d/1fWhkwt-fzOzTpmUwjdcLkxCiHCRv4dHT/view?usp=sharing/ "Title")
+
+Click here for my [Portfolio](https://h1t3ndr4.netlify.app/ "Title")
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
