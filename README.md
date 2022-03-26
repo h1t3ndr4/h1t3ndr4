@@ -9,6 +9,10 @@ multiple projects at the same time. Good in managing time
 and organizing tasks. Successful working in both team and
 self-directed environments with good communication and
 interpersonal skills</p>
+
+
+![Hiro Hamada on his laptop computer jpeg](https://user-images.githubusercontent.com/39190812/160223922-d87b715f-4098-4f86-82cd-49284fb85cf3.png)
+
 <div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
    <br><br>
 
