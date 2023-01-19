@@ -12,8 +12,6 @@ interpersonal skills</p>
 
 
 ![Hiro Hamada on his laptop computer jpeg](https://user-images.githubusercontent.com/39190812/160223922-d87b715f-4098-4f86-82cd-49284fb85cf3.png)
-
-<div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
    <br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat" alt="h1t3ndr4" /> </p>
