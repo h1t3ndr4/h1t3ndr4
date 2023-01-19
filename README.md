@@ -74,5 +74,10 @@ Click here for my [Portfolio](https://h1t3ndr4.netlify.app/ "Title")
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1t3ndr4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+   
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 
