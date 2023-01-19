@@ -77,7 +77,7 @@ Click here for my [Portfolio](https://h1t3ndr4.netlify.app/ "Title")
    
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/h1t3ndr4/count.svg" />
 </p>
 
 
