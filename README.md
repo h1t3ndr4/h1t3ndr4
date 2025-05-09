@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitendra Mali</h1>
-<p align="center">Full Stack Developer with a specialization in MERN
-Stack. Hands-on experience in application development. Skilled
-in building web applications using HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB, MySQL, Sequelize, Redis.
-Experience in ECMAScript 6. Able to quickly learn and master
-new technologies. High-energy, confident professional with
-passion for technology. Flexible and capable of balancing
-multiple projects at the same time. Good in managing time
-and organizing tasks. Successful working in both team and
-self-directed environments with good communication and
-interpersonal skills</p>
+<p align="center">Backend Developer with nearly 3 years of experience in building and optimizing scalable backend systems. Specialized in Node.js, MySQL, Sequelize, and Redis, with a strong focus on performance, security, and clean architecture. Proficient in designing RESTful APIs, implementing microservices, and optimizing database queries. Passionate about backend technologies, caching strategies, and system performance tuning. A fast learner and adaptable professional with strong problem-solving skills, capable of managing multiple projects efficiently in both collaborative and independent environments.
+</p>
 
 
 ![Hiro Hamada on his laptop computer jpeg](https://user-images.githubusercontent.com/39190812/160223922-d87b715f-4098-4f86-82cd-49284fb85cf3.png)
